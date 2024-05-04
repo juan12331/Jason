@@ -1,6 +1,0 @@
-{
-    "lista": [16, "juan", true, null, {}],
-    "number" : 4,
-    "boolean" : true,
-    "string" : "juan"
-}
